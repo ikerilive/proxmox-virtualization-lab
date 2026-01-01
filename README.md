@@ -1,5 +1,3 @@
-# proxmox-virtualization-lab
-
 # Proxmox VE Virtualization Lab
 ![Desktop](https://github.com/ikerilive/proxmox-virtualization-lab/blob/main/01-installation/IMG_5632.JPG)
 ## Overview
